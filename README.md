@@ -1,3 +1,5 @@
+https://orijinal-hesap-makinesi-pearl.vercel.app/
+
 <!-- currentCalc state'i hakkında bilgi edinin. State'in yapısını anlamak için INITIAL_State ve/veya console.log currentCalc kısmına bakın. Her bir görev için talimatlara uygun olarak nasıl güncellenmesi gerektiği konusunda daha iyi bir fikir edinmenizi sağlayacaktır.
 
 
